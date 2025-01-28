@@ -1,8 +1,36 @@
-# React + Vite
+Tenzies Game
+Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Tenzies is a fun, interactive dice game where players roll dice until all numbers match. A timer and roll counter add a competitive edge, making it a perfect project to showcase React skills in dynamic rendering and state management.
+Features
 
-Currently, two official plugins are available:
+    Roll dice to match all numbers.
+    Track the number of rolls and elapsed time.
+    Dynamic styling highlights frozen dice.
+    Fully responsive layout for desktop and mobile.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Technologies Used
+
+    React
+    JavaScript (ES6+)
+    CSS3
+
+How to Run Locally
+
+    Clone the repository:
+
+git clone https://github.com/BaselAlaa22/tenzies.git 
+
+Navigate to the project directory:
+
+cd tenzies-game  
+
+Install dependencies:
+
+npm install  
+
+Start the development server:
+
+npm start  
+
+Open http://localhost:3000 in your browser.
